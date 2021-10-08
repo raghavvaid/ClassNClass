@@ -31,7 +31,7 @@ public class Line {
     }
 
     public boolean sameLength(Line otherLine){
-        
+
     }
 
     public double slope()
